@@ -3,5 +3,9 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "cSpell.words": [
+        "psvm"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
