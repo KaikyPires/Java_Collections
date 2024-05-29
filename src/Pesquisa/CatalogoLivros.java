@@ -43,12 +43,13 @@ public class CatalogoLivros {
         throw new RuntimeException("A lista esta vazia");
     }
 }
-    public List<Livro> pesquisarPorTitulo(String titulo){
-        List<Livro> livroPorTitulo = new ArrayList<>();
+    public Livro pesquisarPorTitulo(String titulo){
+        Livro livroPorTitulo = null;
         if(!livrosList.isEmpty()){
             for(Livro l : livrosList){
                 if (l.getTitulo().equalsIgnoreCase(titulo)) {
-                    livroPorTitulo.add(l);  
+                    livroPorTitulo = l;  
+                    break;
                 }
             }
             return livroPorTitulo;
