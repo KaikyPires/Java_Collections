@@ -1,6 +1,7 @@
+package OperaçoesBasicas;
 import java.util.ArrayList;
 
-public class App {
+public class MainLista {
     public static void main(String[] args) throws Exception {
         ListaTarefas listaTarefa = new ListaTarefas();
          // Adicionando tarefas à lista
