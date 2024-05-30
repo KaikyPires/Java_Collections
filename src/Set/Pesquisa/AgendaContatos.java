@@ -54,6 +54,8 @@ public class AgendaContatos {
         contato.adicionarContato("Ana", 88889999);
         contato.adicionarContato("Fernando", 77778888);
         contato.adicionarContato("Carolina", 55555555);
+        contato.adicionarContato("Carolina", 55555555);
+
     
         // Exibindo os contatos na agenda
         contato.exibirContatos();
