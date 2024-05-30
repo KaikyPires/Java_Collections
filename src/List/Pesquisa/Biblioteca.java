@@ -13,6 +13,6 @@ public class Biblioteca {
         catalogoLivros.adcionarLivro("The Great Gatsby", "F. Scott Fitzgerald", 1925);
 
        System.out.println(catalogoLivros.pesquisarPorAutor("George Orwell"));
-       
+       System.out.println(catalogoLivros.pesquisarPorIntervaloAnos(1940, 1950));
     }
 }
