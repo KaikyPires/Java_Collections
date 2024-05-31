@@ -15,6 +15,8 @@ Exemplos e Aplicações
 Este projeto serve como um guia de estudo abrangente para o Framework de Coleções do Java. Ele inclui vários exemplos que demonstram o uso de diferentes tipos de coleções, como List, Set, Map. Ao explorar esses exemplos, eu pude aprender como:
 
 Criar e manipular diferentes tipos de coleções.
+
 Aplicar algoritmos de ordenação e busca.
+
 Usar Comparator e Comparable personalizados.
 
