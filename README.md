@@ -6,7 +6,9 @@ Bem-vindo ao Projeto de Estudo de Java Collections! Este repositório contém v�
 Exemplos e Aplicações
 
 °List
+
 °Set
+
 °Map
 
 ## Introdução
