@@ -2,7 +2,6 @@
 
 Bem-vindo ao Projeto de Estudo de Java Collections! Este repositório contém vários exemplos e aplicações do Framework de Coleções do Java. Aqui, estudei e apliquei diferentes tipos de coleções para aprofundar meu entendimento sobre como gerenciar e manipular grupos de objetos em Java de forma eficiente.
 
-Welcome to the Java Collections Study Project! This repository contains various examples and applications of Java Collections Framework. Here, I have studied and applied different collection types to deepen my understanding of how to efficiently manage and manipulate groups of objects in Java.
 
 ## Índice
 Exemplos e Aplicações
