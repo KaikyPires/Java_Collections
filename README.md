@@ -4,6 +4,7 @@ Bem-vindo ao Projeto de Estudo de Java Collections! Este repositório contém v�
 
 ## Índice
 Exemplos e Aplicações
+
 °List
 °Set
 °Map
